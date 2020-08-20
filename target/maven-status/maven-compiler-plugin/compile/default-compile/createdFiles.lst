@@ -1,0 +1,11 @@
+me\gatogamer\collector\Collector.class
+me\gatogamer\collector\config\ConfigCreator.class
+me\gatogamer\collector\utils\Entry.class
+me\gatogamer\collector\Collector$1.class
+me\gatogamer\collector\messages\MessageAPI.class
+me\gatogamer\collector\listeners\Listeners.class
+me\gatogamer\collector\collectors\CollectorObject.class
+me\gatogamer\collector\utils\Glow.class
+me\gatogamer\collector\utils\ItemBuilder.class
+me\gatogamer\collector\collectors\CollectorManager.class
+me\gatogamer\collector\utils\Utils.class

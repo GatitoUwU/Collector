@@ -1,0 +1,3 @@
+name: Collector
+version: ${project.version}
+main: me.gatogamer.collector.Collector

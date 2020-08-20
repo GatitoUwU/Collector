@@ -1,0 +1,20 @@
+######################################
+#    Collector! by gatogamer#1111    #
+# I hope that you enjoy my plugin :3 #
+######################################
+
+Item:
+  Collector:
+    name: "&cCollector"
+    lore:
+      - "&c¡Colócame y recogeré todo en el chunk!"
+
+Actions:
+  Put: "&aHas puesto un colector."
+  Remove: "&cHas removido un colector."
+
+Commands:
+  Give: "&aSe te ha dado un colector."
+
+Errors:
+  AlreadyChunk: "&cYa hay un colector en este chunk."
